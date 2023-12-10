@@ -45,7 +45,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <p>
 
-  ![mechano59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
+  ![mechano59's Top Languages](https://github-readme-git-3c2344-foyez-ahammed-sharif-plabans-projects.vercel.app/api/top-langs/?show_icons=true&show_icons=false&username=mechano59&hide_border=true&count_private=true&theme=dark)
   
 </p>
 
