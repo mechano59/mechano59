@@ -41,12 +41,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📈 **My GitHub Stats :**
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mechano59)](https://git.io/streak-stats)
+![mechano59's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mechano59&theme=dark&hide_border=true)
 
 <p>
 
-  ![mechano59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![mechano59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
   
 </p>
 
