@@ -45,6 +45,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mechano59)](https://git.io/streak-stats)
 
 <p>
-  ![mechano59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+  <img height="180em" src="[![mechano59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&theme=dark&show_icons=true&hide_border=true&layout=compact)/>
+  
 </p>
 
