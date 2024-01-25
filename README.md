@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="#" target="_blank">Foyez Ahammed Sharif Plaban</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://5plaban9.com/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.plaban.dev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/5plaban9)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/5plaban9/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/5plaban9/)
@@ -21,7 +21,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/mechano59/mechano59/blob/main/assets/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m looking to collaborate on open source softwares and companies software
 - <img src="https://github.com/mechano59/mechano59/blob/main/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/mechano59/mechano59/blob/main/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: 5plaban9@gmail.com
-- <img src="https://github.com/mechano59/mechano59/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://5plaban9.com/public/assets/files/Foyez_Ahammed_Sharif_Plaban.pdf)
+- <img src="https://github.com/mechano59/mechano59/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://www.plaban.dev/public/assets/files/Foyez_Ahammed_Sharif_Plaban.pdf)
 
 </br>
 
