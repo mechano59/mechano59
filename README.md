@@ -10,7 +10,7 @@
 
 Hey there, I'm a frontend software engineer who's all about diving into the world of programming, tech, and sharing my experiences.
 
-When it comes to my work, I'm all about the nitty-gritty details and pouring my heart into crafting things that have the power to shake up the status quo. Now, that's what gets me out of bed in the morning!
+When it comes to my work, I'm all about the nitty-gritty details and pouring my heart into crafting things that have the power to make a difference. Now, that's what gets me out of bed in the morning!
 
 Now, onto the Fun Stuff: <img align="right" alt="GIF" src="https://github.com/mechano59/mechano59/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
