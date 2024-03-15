@@ -12,7 +12,7 @@ Hey there, I'm a frontend software engineer who's all about diving into the worl
 
 When it comes to my work, I'm all about the nitty-gritty details and pouring my heart into crafting things that have the power to shake up the status quo. Now, that's what gets me out of bed in the morning!
 
-Now, onto the Fun Stuff:
+Now, onto the Fun Stuff: <img align="right" alt="GIF" src="https://github.com/mechano59/mechano59/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 <img src="https://github.com/mechano59/mechano59/blob/main/assets/developer.gif?raw=true" width="21" />   Currently, you'll find me tinkering away as a Software Engineer, putting my skills to use on both frontend and backend projects, helping to build web apps. </br>
 <img src="https://github.com/mechano59/mechano59/blob/main/assets/laptop.gif?raw=true" width="21" />   I'm always on the lookout for opportunities to team up on open-source ventures or collaborate with companies on exciting software endeavors.</br>
