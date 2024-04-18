@@ -8,7 +8,7 @@
 
 ### Absolutely thrilled to have you here!   
 
-Hey there, I'm a frontend software engineer who's all about diving into the world of programming, tech, and sharing my experiences.
+I'm a software engineer who's all about diving into the world of programming, tech, and sharing my experiences.
 
 When it comes to my work, I'm all about the nitty-gritty details and pouring my heart into crafting things that have the power to make a difference. Now, that's what gets me out of bed in the morning!
 
