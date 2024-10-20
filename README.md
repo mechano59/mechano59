@@ -6,7 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on [Primeasia Website](https://new.primeasia.edu.bd), which was designed from the ground up with integrated custom CMS, multi-user authentication and security best practices to safeguard user data.
-.
   
 - 👯 I’m looking to collaborate on **open-source projects** in Laravel,  Flutter, PostgreSQL, and backend solutions.
 
