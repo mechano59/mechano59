@@ -23,9 +23,6 @@
   <a href="https://bd.linkedin.com/in/5plaban9" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" width="100" />
   </a>
-  <a href="https://www.instagram.com/5plaban9/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="30" width="100" />
-  </a>
 </p>
 
 <p align="left">
