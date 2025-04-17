@@ -5,15 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=mechano59&label=Profile%20views&color=0e75b6&style=flat" alt="mechano59" />
 </p>
 
-- 🔭 I’m currently working on [Primeasia Website](https://new.primeasia.edu.bd), which was designed from the ground up with integrated custom CMS, multi-user authentication and security best practices to safeguard user data.
-  
 - 👯 I’m looking to collaborate on **open-source projects** in Laravel,  Flutter, PostgreSQL, and backend solutions.
 
-- 👨‍💻 All of my projects are available on my [GitHub profile](https://github.com/mechano59).
+- 👨‍💻 All of my projects are available on my [GitHub Repository](https://github.com/mechano59?tab=repositories)).
 
-- 📝 I regularly document guides, such as [how to install PostgreSQL on Linux](https://github.com/mechano59/PostgreSQL), simplifying database management.
+- 📝 I document guides, such as [how to install PostgreSQL on Linux](https://github.com/mechano59/PostgreSQL), simplifying database management.
 
-- 💬 Ask me about **Laravel**, **PostgreSQL**, **Bash scripting** and **Flutter development**.
+- 💬 Ask me about **Laravel**, **PostgreSQL**, **Bash scripting** and **Linux** <sup>i use arch btw</sup>.
 
 - 📫 How to reach me: **5plaban9@gmail.com**
 
