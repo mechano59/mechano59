@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects** in Laravel,  Flutter, PostgreSQL, and backend solutions.
 
-- 👨‍💻 All of my projects are available on my [GitHub Repository](https://github.com/mechano59?tab=repositories)).
+- 👨‍💻 All of my projects are available on my [GitHub Repository](https://github.com/mechano59?tab=repositories).
 
 - 📝 I document guides, such as [how to install PostgreSQL on Linux](https://github.com/mechano59/PostgreSQL), simplifying database management.
 
