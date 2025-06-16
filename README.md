@@ -67,11 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mechano59&theme=dark&hide_border=true" alt="mechano59" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mechano59&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="mechano59" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&layout=compact&theme=dark&hide_border=true" alt="mechano59" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechano59&layout=compact&theme=dark&hide_border=true" alt="mechano59" width="35%"/>
 </p>
 
 <p align="center">
